@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE `your_project.dataset.raw_social_media_engagement` AS SELECT * FROM `your_project.dataset.uploaded_csv_table`;

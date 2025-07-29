@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE `your_project.dataset.cleaned_step3` AS SELECT *, LOWER(sentiment_score) AS sentiment_score_clean FROM `your_project.dataset.cleaned_step2`;

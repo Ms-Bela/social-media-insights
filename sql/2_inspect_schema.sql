@@ -1,0 +1,1 @@
+SELECT column_name, data_type FROM `your_project.dataset.INFORMATION_SCHEMA.COLUMNS` WHERE table_name = 'raw_social_media_engagement';
