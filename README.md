@@ -31,13 +31,6 @@ social-engagement-analysis/
 
 ![Dashboard Cover](images/dashboard_cover.png)
 
-### Additional Visuals
-- ![Engagement by Platform](images/engagement_by_platform.png)
-- ![Sentiment vs Engagement](images/sentiment_vs_engagement.png)
-- ![Engagement by Hour](images/engagement_by_hour.png)
-- ![Engagement by Day](images/engagement_by_day.png)
-- ![Top Performing Posts](images/top_posts.png)
-
 ---
 
 ## 🛠️ Tools Used
